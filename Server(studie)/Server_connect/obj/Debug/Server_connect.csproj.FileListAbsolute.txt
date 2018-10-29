@@ -1,0 +1,7 @@
+C:\Users\Morten\source\repos\Server(studie)\Server_connect\bin\Debug\Server_connect.exe.config
+C:\Users\Morten\source\repos\Server(studie)\Server_connect\bin\Debug\Server_connect.exe
+C:\Users\Morten\source\repos\Server(studie)\Server_connect\bin\Debug\Server_connect.pdb
+C:\Users\Morten\source\repos\Server(studie)\Server_connect\obj\Debug\Server_connect.csprojResolveAssemblyReference.cache
+C:\Users\Morten\source\repos\Server(studie)\Server_connect\obj\Debug\Server_connect.csproj.CoreCompileInputs.cache
+C:\Users\Morten\source\repos\Server(studie)\Server_connect\obj\Debug\Server_connect.exe
+C:\Users\Morten\source\repos\Server(studie)\Server_connect\obj\Debug\Server_connect.pdb

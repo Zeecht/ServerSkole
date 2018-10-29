@@ -1,0 +1,7 @@
+C:\Users\Morten\source\repos\Server(studie)\Server(studie)\bin\Debug\Server(studie).exe.config
+C:\Users\Morten\source\repos\Server(studie)\Server(studie)\bin\Debug\Server(studie).exe
+C:\Users\Morten\source\repos\Server(studie)\Server(studie)\bin\Debug\Server(studie).pdb
+C:\Users\Morten\source\repos\Server(studie)\Server(studie)\obj\Debug\Server(studie).csprojResolveAssemblyReference.cache
+C:\Users\Morten\source\repos\Server(studie)\Server(studie)\obj\Debug\Server(studie).csproj.CoreCompileInputs.cache
+C:\Users\Morten\source\repos\Server(studie)\Server(studie)\obj\Debug\Server(studie).exe
+C:\Users\Morten\source\repos\Server(studie)\Server(studie)\obj\Debug\Server(studie).pdb
