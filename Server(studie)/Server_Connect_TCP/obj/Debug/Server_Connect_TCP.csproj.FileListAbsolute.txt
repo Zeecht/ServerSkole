@@ -1,0 +1,7 @@
+C:\ServerSkole\Server(studie)\Server_Connect_TCP\bin\Debug\Server_Connect_TCP.exe.config
+C:\ServerSkole\Server(studie)\Server_Connect_TCP\bin\Debug\Server_Connect_TCP.exe
+C:\ServerSkole\Server(studie)\Server_Connect_TCP\bin\Debug\Server_Connect_TCP.pdb
+C:\ServerSkole\Server(studie)\Server_Connect_TCP\obj\Debug\Server_Connect_TCP.csprojResolveAssemblyReference.cache
+C:\ServerSkole\Server(studie)\Server_Connect_TCP\obj\Debug\Server_Connect_TCP.csproj.CoreCompileInputs.cache
+C:\ServerSkole\Server(studie)\Server_Connect_TCP\obj\Debug\Server_Connect_TCP.exe
+C:\ServerSkole\Server(studie)\Server_Connect_TCP\obj\Debug\Server_Connect_TCP.pdb
