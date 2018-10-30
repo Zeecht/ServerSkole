@@ -5,3 +5,10 @@ C:\Users\Morten\source\repos\Server(studie)\Server_connect\obj\Debug\Server_conn
 C:\Users\Morten\source\repos\Server(studie)\Server_connect\obj\Debug\Server_connect.csproj.CoreCompileInputs.cache
 C:\Users\Morten\source\repos\Server(studie)\Server_connect\obj\Debug\Server_connect.exe
 C:\Users\Morten\source\repos\Server(studie)\Server_connect\obj\Debug\Server_connect.pdb
+C:\Users\MortenEllegaardHanse\Documents\GitHub\ServerSkole\Server(studie)\Server_connect\bin\Debug\Server_connect.exe.config
+C:\Users\MortenEllegaardHanse\Documents\GitHub\ServerSkole\Server(studie)\Server_connect\bin\Debug\Server_connect.exe
+C:\Users\MortenEllegaardHanse\Documents\GitHub\ServerSkole\Server(studie)\Server_connect\bin\Debug\Server_connect.pdb
+C:\Users\MortenEllegaardHanse\Documents\GitHub\ServerSkole\Server(studie)\Server_connect\obj\Debug\Server_connect.csprojAssemblyReference.cache
+C:\Users\MortenEllegaardHanse\Documents\GitHub\ServerSkole\Server(studie)\Server_connect\obj\Debug\Server_connect.csproj.CoreCompileInputs.cache
+C:\Users\MortenEllegaardHanse\Documents\GitHub\ServerSkole\Server(studie)\Server_connect\obj\Debug\Server_connect.exe
+C:\Users\MortenEllegaardHanse\Documents\GitHub\ServerSkole\Server(studie)\Server_connect\obj\Debug\Server_connect.pdb

@@ -19,9 +19,10 @@ namespace Server_studie_
         static void Main(string[] args)
         {
             Random random = new Random();
+            var ran = random.Next(1, 10);
             while (true)
             {
-                StartListener(random);
+                StartListener(ran);
 
             }
 
@@ -29,17 +30,15 @@ namespace Server_studie_
         }
 
         private const int listenPort = 11000;
-        private static void StartListener(Random random)
+        private static void StartListener(int random)
         {
             UdpClient listener = new UdpClient(listenPort);
             IPEndPoint groupEP = new IPEndPoint(IPAddress.Any, listenPort);
             try
             {
-                Console.WriteLine("Waiting for broadcast");
                 byte[] bytes = listener.Receive(ref groupEP);
                 var stringbytes = Encoding.ASCII.GetString(bytes, 0, bytes.Length);
                 HighLow(stringbytes,random);
-                //Console.WriteLine("Recieved broadcast from {0} :\n{1}\n", groupEP.ToString(), Encoding.ASCII.GetString(bytes, 0, bytes.Length));
             }
             catch (Exception e)
             {
@@ -51,65 +50,43 @@ namespace Server_studie_
                 listener.Close();
             }
         }
-        
-        public static void HighLow(string bytes, Random random)
+
+        private static void Sender(string a)
         {
-            int a;
-            if (bytes == "1")
+            Socket s = new Socket(AddressFamily.InterNetwork, SocketType.Dgram, ProtocolType.Udp);
+            IPAddress t = IPAddress.Parse("127.0.0.1");
+            byte[] sendbuf = Encoding.ASCII.GetBytes(a);
+            IPEndPoint ep = new IPEndPoint(t, 11001);
+            s.SendTo(sendbuf, ep);
+        }
+        
+        public static void HighLow(string bytes, int random)
+        {
+            int ConvertedIntRandom = Convert.ToInt32(random);
+            int a = 0;
+
+            for (int i = 1; i < 10; i++)
             {
-                a = 1;
+                if (bytes == i.ToString())
+                {
+                    a = i;
+                }
             }
-            else if (bytes == "2")
+            if (a > 10 || a < 1)
             {
-                a = 2;
+                Sender("Number aint between 1 and 10");
             }
-            else if (bytes == "3")
+            if (a > ConvertedIntRandom)
             {
-                a = 3;
+                Sender("Lower");
             }
-            else if (bytes == "4")
+            else if (a < ConvertedIntRandom)
             {
-                a = 4;
-            }
-            else if (bytes == "5")
-            {
-                a = 5;
-            }
-            else if (bytes == "6")
-            {
-                a = 6;
-            }
-            else if (bytes == "7")
-            {
-                a = 7;
-            }
-            else if (bytes == "8")
-            {
-                a = 8;
-            }
-            else if (bytes == "9")
-            {
-                a = 9;
-            }
-            else if (bytes == "10")
-            {
-                a = 10;
+                Sender("Higher");
             }
             else
             {
-                Console.WriteLine("Number aint between 1 and 10");
-            }
-            if (a > random.ToString)
-            {
-                Console.WriteLine("Higher");
-            }
-            else if (a < random)
-            {
-                Console.WriteLine("Lower");
-            }
-            else
-            {
-                
+                Sender("Correct");
             }
         }
     }
