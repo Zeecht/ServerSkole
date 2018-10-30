@@ -5,3 +5,10 @@ C:\ServerSkole\Server(studie)\Server_TCP\obj\Debug\Server_TCP.csproj.CoreCompile
 C:\ServerSkole\Server(studie)\Server_TCP\obj\Debug\Server_TCP.exe
 C:\ServerSkole\Server(studie)\Server_TCP\obj\Debug\Server_TCP.pdb
 C:\ServerSkole\Server(studie)\Server_TCP\obj\Debug\Server_TCP.csprojResolveAssemblyReference.cache
+C:\Users\MortenEllegaardHanse\Documents\GitHub\ServerSkole\Server(studie)\Server_TCP\bin\Debug\Server_TCP.exe.config
+C:\Users\MortenEllegaardHanse\Documents\GitHub\ServerSkole\Server(studie)\Server_TCP\bin\Debug\Server_TCP.exe
+C:\Users\MortenEllegaardHanse\Documents\GitHub\ServerSkole\Server(studie)\Server_TCP\bin\Debug\Server_TCP.pdb
+C:\Users\MortenEllegaardHanse\Documents\GitHub\ServerSkole\Server(studie)\Server_TCP\obj\Debug\Server_TCP.csprojAssemblyReference.cache
+C:\Users\MortenEllegaardHanse\Documents\GitHub\ServerSkole\Server(studie)\Server_TCP\obj\Debug\Server_TCP.csproj.CoreCompileInputs.cache
+C:\Users\MortenEllegaardHanse\Documents\GitHub\ServerSkole\Server(studie)\Server_TCP\obj\Debug\Server_TCP.exe
+C:\Users\MortenEllegaardHanse\Documents\GitHub\ServerSkole\Server(studie)\Server_TCP\obj\Debug\Server_TCP.pdb

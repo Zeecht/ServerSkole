@@ -18,7 +18,7 @@ namespace Server_Connect_TCP
                 Connect("127.0.0.1", a);
                 
             }
-
+            
         }
 
 
@@ -39,7 +39,9 @@ namespace Server_Connect_TCP
                     Int32 bytes = stream.Read(data, 0, data.Length);
                     responsdata = Encoding.ASCII.GetString(data, 0, data.Length);
                     Console.WriteLine("Received: {0}", responsdata);
-                
+                stream.Close();
+                client.Close();
+
             }
             catch (ArgumentException e)
             {
