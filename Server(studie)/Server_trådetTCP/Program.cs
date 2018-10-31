@@ -18,10 +18,13 @@ namespace Server_trådetTCP
         public static string beskedTilAlle = "Faelles info";
         private static TcpListener _server;
         private static Boolean _isRunning;
-
+        
+        public static int randzom;
 
         static void Main(string[] args)
         {
+            Random random = new Random();
+            randzom = random.Next(0, 10);
             Console.WriteLine("Multi-Threaded TCP server DEMO");
             TcpServer(Port);
             
@@ -55,8 +58,7 @@ namespace Server_trådetTCP
             //Sets two streams
             StreamWriter sWriter = new StreamWriter(client.GetStream(), Encoding.ASCII);
             StreamReader sReader = new StreamReader(client.GetStream(), Encoding.ASCII);
-            Random random = new Random();
-            int randzom = random.Next(0, 10);
+            
 
             //you could use the NetworkStream to read and write,
             //but there is no forcing, even when requested
