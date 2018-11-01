@@ -1,0 +1,7 @@
+C:\Users\MortenEllegaardHanse\Documents\GitHub\ServerSkole\Server(studie)\Server_trådetTCP\bin\Debug\Server_trådetTCP.exe.config
+C:\Users\MortenEllegaardHanse\Documents\GitHub\ServerSkole\Server(studie)\Server_trådetTCP\bin\Debug\Server_trådetTCP.exe
+C:\Users\MortenEllegaardHanse\Documents\GitHub\ServerSkole\Server(studie)\Server_trådetTCP\bin\Debug\Server_trådetTCP.pdb
+C:\Users\MortenEllegaardHanse\Documents\GitHub\ServerSkole\Server(studie)\Server_trådetTCP\obj\Debug\Server_trådetTCP.csprojAssemblyReference.cache
+C:\Users\MortenEllegaardHanse\Documents\GitHub\ServerSkole\Server(studie)\Server_trådetTCP\obj\Debug\Server_trådetTCP.csproj.CoreCompileInputs.cache
+C:\Users\MortenEllegaardHanse\Documents\GitHub\ServerSkole\Server(studie)\Server_trådetTCP\obj\Debug\Server_trådetTCP.exe
+C:\Users\MortenEllegaardHanse\Documents\GitHub\ServerSkole\Server(studie)\Server_trådetTCP\obj\Debug\Server_trådetTCP.pdb

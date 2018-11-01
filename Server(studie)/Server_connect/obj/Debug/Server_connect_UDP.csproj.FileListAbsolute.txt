@@ -1,0 +1,6 @@
+C:\Users\MortenEllegaardHanse\Documents\GitHub\ServerSkole\Server(studie)\Server_connect\bin\Debug\Server_connect.exe.config
+C:\Users\MortenEllegaardHanse\Documents\GitHub\ServerSkole\Server(studie)\Server_connect\bin\Debug\Server_connect.exe
+C:\Users\MortenEllegaardHanse\Documents\GitHub\ServerSkole\Server(studie)\Server_connect\bin\Debug\Server_connect.pdb
+C:\Users\MortenEllegaardHanse\Documents\GitHub\ServerSkole\Server(studie)\Server_connect\obj\Debug\Server_connect_UDP.csproj.CoreCompileInputs.cache
+C:\Users\MortenEllegaardHanse\Documents\GitHub\ServerSkole\Server(studie)\Server_connect\obj\Debug\Server_connect.exe
+C:\Users\MortenEllegaardHanse\Documents\GitHub\ServerSkole\Server(studie)\Server_connect\obj\Debug\Server_connect.pdb

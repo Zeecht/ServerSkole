@@ -31,18 +31,19 @@ namespace Server_TCP
                     data = null;
                     NetworkStream stream = client.GetStream();
                     int i;
+
                     while ((i = stream.Read(bytes, 0, bytes.Length)) != 0)
                     {
                         data = Encoding.ASCII.GetString(bytes, 0, i);
 
 
                         Console.WriteLine("Recieved: {0}", data);
-                        string a = HighLow(data, randzom);
-                        byte[] msg = Encoding.ASCII.GetBytes(a);
+                        data = HighLow(data,randzom);
+                        byte[] msg = Encoding.ASCII.GetBytes(data);
                         stream.Write(msg, 0, msg.Length);
                         Console.WriteLine("Sent: {0}", data);
                     }
-                    bytes = null;
+                    client.Close();
                 }
                     
                 
