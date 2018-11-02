@@ -1,0 +1,10 @@
+C:\ServerSkole\Server(studie)\Server_DrawServer\bin\Debug\Server_DrawServer.exe.config
+C:\ServerSkole\Server(studie)\Server_DrawServer\bin\Debug\Server_DrawServer.exe
+C:\ServerSkole\Server(studie)\Server_DrawServer\bin\Debug\Server_DrawServer.pdb
+C:\ServerSkole\Server(studie)\Server_DrawServer\obj\Debug\Server_DrawServer.csprojResolveAssemblyReference.cache
+C:\ServerSkole\Server(studie)\Server_DrawServer\obj\Debug\Server_DrawServer.Form1.resources
+C:\ServerSkole\Server(studie)\Server_DrawServer\obj\Debug\Server_DrawServer.Properties.Resources.resources
+C:\ServerSkole\Server(studie)\Server_DrawServer\obj\Debug\Server_DrawServer.csproj.GenerateResource.cache
+C:\ServerSkole\Server(studie)\Server_DrawServer\obj\Debug\Server_DrawServer.csproj.CoreCompileInputs.cache
+C:\ServerSkole\Server(studie)\Server_DrawServer\obj\Debug\Server_DrawServer.exe
+C:\ServerSkole\Server(studie)\Server_DrawServer\obj\Debug\Server_DrawServer.pdb
