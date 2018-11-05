@@ -1,0 +1,7 @@
+C:\Users\MortenEllegaardHanse\Documents\GitHub\ServerSkole\Server(studie)\Server(studie)\bin\Debug\Server(studie).exe.config
+C:\Users\MortenEllegaardHanse\Documents\GitHub\ServerSkole\Server(studie)\Server(studie)\bin\Debug\Server(studie).exe
+C:\Users\MortenEllegaardHanse\Documents\GitHub\ServerSkole\Server(studie)\Server(studie)\bin\Debug\Server(studie).pdb
+C:\Users\MortenEllegaardHanse\Documents\GitHub\ServerSkole\Server(studie)\Server(studie)\obj\Debug\Server_UDP.csprojAssemblyReference.cache
+C:\Users\MortenEllegaardHanse\Documents\GitHub\ServerSkole\Server(studie)\Server(studie)\obj\Debug\Server_UDP.csproj.CoreCompileInputs.cache
+C:\Users\MortenEllegaardHanse\Documents\GitHub\ServerSkole\Server(studie)\Server(studie)\obj\Debug\Server(studie).exe
+C:\Users\MortenEllegaardHanse\Documents\GitHub\ServerSkole\Server(studie)\Server(studie)\obj\Debug\Server(studie).pdb

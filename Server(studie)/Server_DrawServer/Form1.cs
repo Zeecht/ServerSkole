@@ -15,33 +15,30 @@ namespace Server_DrawServer
         public bool isDrawing = true;
         public List<Point> drawPosition = new List<Point>();
 
+        Graphics graphics;
 
         public Form1()
         {
             InitializeComponent();
 
-            panel1.MouseDown += new MouseEventHandler(Mouse);
+            graphics = PicBox.CreateGraphics();
+            PicBox.MouseDown += new MouseEventHandler(Mouse);
         }
 
 
         public void Mouse(object sender, MouseEventArgs me)
         {
+            Pen p = new Pen(Color.Black);
+            graphics.DrawLine(p, MousePosition, MousePosition);
 
-            if (isDrawing)
-            {
-                drawPosition.Add(me.Location);
-                panel1.Invalidate();
-            }
         }
 
 
         public void Draw(object sender, PaintEventArgs pe)
         {
-
-            //pe.Graphics.DrawLines(Pens.Black, drawingPosition);
-            panel1.Invalidate();
+            
         }
 
-
+        
     }
 }

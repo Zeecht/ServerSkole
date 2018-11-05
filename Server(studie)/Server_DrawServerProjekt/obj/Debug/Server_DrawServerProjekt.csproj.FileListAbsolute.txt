@@ -1,0 +1,7 @@
+C:\Users\MortenEllegaardHanse\Documents\GitHub\ServerSkole\Server(studie)\Server_DrawServerProjekt\bin\Debug\Server_DrawServerProjekt.exe.config
+C:\Users\MortenEllegaardHanse\Documents\GitHub\ServerSkole\Server(studie)\Server_DrawServerProjekt\bin\Debug\Server_DrawServerProjekt.exe
+C:\Users\MortenEllegaardHanse\Documents\GitHub\ServerSkole\Server(studie)\Server_DrawServerProjekt\bin\Debug\Server_DrawServerProjekt.pdb
+C:\Users\MortenEllegaardHanse\Documents\GitHub\ServerSkole\Server(studie)\Server_DrawServerProjekt\obj\Debug\Server_DrawServerProjekt.csprojAssemblyReference.cache
+C:\Users\MortenEllegaardHanse\Documents\GitHub\ServerSkole\Server(studie)\Server_DrawServerProjekt\obj\Debug\Server_DrawServerProjekt.csproj.CoreCompileInputs.cache
+C:\Users\MortenEllegaardHanse\Documents\GitHub\ServerSkole\Server(studie)\Server_DrawServerProjekt\obj\Debug\Server_DrawServerProjekt.exe
+C:\Users\MortenEllegaardHanse\Documents\GitHub\ServerSkole\Server(studie)\Server_DrawServerProjekt\obj\Debug\Server_DrawServerProjekt.pdb

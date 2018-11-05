@@ -1,0 +1,10 @@
+C:\Users\MortenEllegaardHanse\Documents\GitHub\ServerSkole\Server(studie)\Server_DrawClientProjekt\bin\Debug\Server_DrawClientProjekt.exe.config
+C:\Users\MortenEllegaardHanse\Documents\GitHub\ServerSkole\Server(studie)\Server_DrawClientProjekt\bin\Debug\Server_DrawClientProjekt.exe
+C:\Users\MortenEllegaardHanse\Documents\GitHub\ServerSkole\Server(studie)\Server_DrawClientProjekt\bin\Debug\Server_DrawClientProjekt.pdb
+C:\Users\MortenEllegaardHanse\Documents\GitHub\ServerSkole\Server(studie)\Server_DrawClientProjekt\obj\Debug\Server_DrawClientProjekt.csprojAssemblyReference.cache
+C:\Users\MortenEllegaardHanse\Documents\GitHub\ServerSkole\Server(studie)\Server_DrawClientProjekt\obj\Debug\Server_DrawClientProjekt.Form1.resources
+C:\Users\MortenEllegaardHanse\Documents\GitHub\ServerSkole\Server(studie)\Server_DrawClientProjekt\obj\Debug\Server_DrawClientProjekt.Properties.Resources.resources
+C:\Users\MortenEllegaardHanse\Documents\GitHub\ServerSkole\Server(studie)\Server_DrawClientProjekt\obj\Debug\Server_DrawClientProjekt.csproj.GenerateResource.cache
+C:\Users\MortenEllegaardHanse\Documents\GitHub\ServerSkole\Server(studie)\Server_DrawClientProjekt\obj\Debug\Server_DrawClientProjekt.csproj.CoreCompileInputs.cache
+C:\Users\MortenEllegaardHanse\Documents\GitHub\ServerSkole\Server(studie)\Server_DrawClientProjekt\obj\Debug\Server_DrawClientProjekt.exe
+C:\Users\MortenEllegaardHanse\Documents\GitHub\ServerSkole\Server(studie)\Server_DrawClientProjekt\obj\Debug\Server_DrawClientProjekt.pdb
